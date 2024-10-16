@@ -3,11 +3,11 @@
 ## Installation
 
 ```bash
-curl -L -o probably-exe https://github.com/probably-dev/releases/releases/latest/download/probably-exe && chmod +x probably-exe
+curl -L -o probably-exe https://github.com/probably-dev/releases/releases/latest/download/ProbablyApp && chmod +x ProbablyApp
 ```
 
 ## Launch
 
 ```bash
-./probably-exe
+./ProbablyApp
 ```
